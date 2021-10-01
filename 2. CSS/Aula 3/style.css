@@ -1,0 +1,12 @@
+body{
+    background-image:url(background.jpg);
+    background-repeat: no-repeat; /* se você deixar somente como está acima ele vai repetir o fundo para o documento todo*/
+    /*background-position: 100% 10%; direita topo esquerda abaixo - funciona como um relogio sentido horário */
+    /*background-position: center center; ou right ou left você pode ajustar*/
+    /*background-attachment: fixed; só o conteúde se move o fundo fica fixo*/
+    /*background-size: cover; ele não repete o background, ele estica para caber na página inteira*/
+}
+
+p{
+    color: rgb(34, 34, 34);
+}

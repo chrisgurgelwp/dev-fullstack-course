@@ -1,0 +1,19 @@
+body{
+    background: #dbdbdb;
+}
+
+p{
+    color: rgb(34, 34, 34);
+}
+.foto-chris{
+    width: 200px;
+    border: 2px solid #ffffff; /*shorthand - ordem: espessura-tipo de borda-cor {essa propriedade resume tudo (ver ex. abaixo) usar essa*/
+    border-radius: 50%; /*usando isso ele fica redondo-se quiser outros formatos usar valores. ex: 50% 10% 30% 70%*/
+    
+    /*
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    */
+    margin: 30px 30px 30px 30px; /*outro shorthand */
+    }
